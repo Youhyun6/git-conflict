@@ -1,1 +1,1 @@
-# git-conflict
+# Git Conflict - Team Adventure
